@@ -1,0 +1,448 @@
+Dancing Bees
+blue
+ifempty 5
+ifwall 7
+left
+go 1
+hop
+go 1
+ifrandom 9
+go 11
+left
+go 13
+right
+go 39
+ifwall 25
+ifsame 27
+hop
+ifrandom 13
+ifrandom 13
+ifrandom 13
+ifrandom 13
+ifrandom 13
+go 22
+right
+right
+go 39
+left
+go 13
+left
+hop
+hop
+hop
+hop
+hop
+right
+ifsame 190
+infect 443
+ifsame 190
+right
+go 1
+ifwall 48
+ifsame 53
+hop
+ifrandom 39
+ifrandom 39
+ifrandom 39
+ifrandom 39
+ifrandom 39
+go 50
+right
+go 39
+left
+left
+go 13
+right
+hop
+hop
+hop
+hop
+hop
+left
+ifsame 81
+infect 443
+ifsame 81
+left
+hop
+right
+ifsame 443
+left
+hop
+right
+ifsame 443
+left
+hop
+right
+ifsame 84
+left
+hop
+right
+ifsame 443
+left
+go 1
+right
+right
+go 96
+left
+hop
+hop
+right
+ifsame 50
+right
+ifempty 1
+ifsame 94
+hop
+go 278
+infect 443
+go 91
+ifsame 100
+ifwall 102
+hop
+go 96
+infect 443
+go 96
+left
+hop
+infect 443
+go 106
+ifsame 110
+ifwall 183
+hop
+go 106
+left
+hop
+right
+ifsame 131
+left
+hop
+right
+infect 443
+infect 443
+ifempty 145
+ifsame 181
+hop
+left
+ifempty 127
+ifsame 129
+hop
+go 341
+infect 443
+go 123
+infect 443
+go 124
+left
+hop
+hop
+right
+hop
+left
+ifempty 143
+ifsame 141
+hop
+go 374
+infect 443
+go 138
+infect 443
+go 137
+infect 443
+ifempty 148
+go 119
+infect 443
+ifempty 151
+go 119
+infect 443
+ifempty 154
+go 119
+infect 443
+ifempty 157
+go 119
+infect 443
+ifempty 160
+go 119
+infect 443
+ifempty 163
+go 119
+infect 443
+ifempty 166
+go 119
+infect 443
+ifempty 169
+go 119
+infect 443
+ifempty 172
+go 119
+infect 443
+ifempty 175
+go 119
+infect 443
+ifempty 178
+go 119
+infect 443
+ifempty 1
+go 119
+infect 443
+go 120
+left
+ifsame 188
+hop
+infect 443
+go 106
+infect 443
+go 184
+ifsame 194
+ifwall 196
+hop
+go 190
+infect 443
+go 190
+left
+go 198
+ifsame 202
+ifwall 1
+hop
+go 198
+infect 443
+ifsame 236
+hop
+ifwall 276
+left
+ifsame 222
+hop
+right
+ifsame 224
+infect 443
+infect 443
+ifempty 238
+ifsame 274
+hop
+left
+ifsame 220
+hop
+go 309
+infect 443
+go 217
+infect 443
+go 207
+left
+ifsame 234
+hop
+hop
+hop
+right
+hop
+left
+hop
+go 408
+infect 443
+go 225
+infect 443
+go 203
+infect 443
+ifempty 241
+go 213
+infect 443
+ifempty 244
+go 213
+infect 443
+ifempty 247
+go 213
+infect 443
+ifempty 250
+go 213
+infect 443
+ifempty 253
+go 213
+infect 443
+ifempty 256
+go 213
+infect 443
+ifempty 259
+go 213
+infect 443
+ifempty 262
+go 213
+infect 443
+ifempty 265
+go 213
+infect 443
+ifempty 268
+go 213
+infect 443
+ifempty 271
+go 213
+infect 443
+ifempty 1
+go 213
+infect 443
+go 214
+left
+go 198
+right
+ifempty 307
+left
+left
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+hop
+hop
+hop
+hop
+hop
+infect 443
+hop
+hop
+hop
+right
+hop
+hop
+hop
+hop
+hop
+hop
+hop
+right
+go 298
+hop
+go 279
+infect 443
+right
+ifempty 339
+left
+left
+hop
+right
+hop
+hop
+hop
+left
+hop
+hop
+hop
+hop
+infect 443
+left
+infect 443
+infect 443
+infect 443
+right
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+right
+go 330
+hop
+go 311
+infect 443
+infect 443
+right
+ifempty 372
+left
+left
+hop
+right
+hop
+hop
+infect 443
+left
+hop
+hop
+hop
+hop
+infect 443
+left
+infect 443
+infect 443
+infect 443
+right
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+right
+go 363
+hop
+go 344
+infect 443
+infect 443
+infect 443
+right
+ifempty 406
+left
+left
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+hop
+hop
+hop
+hop
+hop
+left
+infect 443
+infect 443
+infect 443
+right
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+right
+go 397
+hop
+go 378
+infect 443
+infect 443
+infect 443
+infect 443
+right
+ifempty 441
+left
+left
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+hop
+hop
+hop
+hop
+hop
+left
+infect 443
+infect 443
+infect 443
+right
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+infect 443
+right
+go 432
+hop
+go 413
+infect 443
+go 443
+.
+
