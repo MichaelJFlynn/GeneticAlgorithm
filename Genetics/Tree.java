@@ -14,9 +14,15 @@ public class Tree {
     private String value;
     private Tree[] children;
 
+    // default class for Darwin genetic algorithms
     public Tree(String init) {
 	value = init;
 	children = new Tree[5];
+    }
+
+    public Tree(String init, int branches) {
+	value = init;
+	children = new Tree[branches];
     }
 
     // post: returns a copy of the Tree
